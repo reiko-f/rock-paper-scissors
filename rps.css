@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: gray;
+  background: lightcyan;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.3;
+  /* text-align: center; */
+}
+
+#call {
+  background: snow;
+  color: rgb(2, 112, 66);
+  width: 400px;
+  height: 50px;
+  font-size: 30px;
+}
+
+#result {
+  background: lightgoldenrodyellow;
+  width: 400px;
+  height: 400px;
+}
+
+#btn {
+  background: turquoise;
+  color: darkolivegreen;
+  width: 80px;
+  height: 50px;
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: 45px;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+button {
+  background: cyan;
+  color: darkolivegreen;
+  width: 150px;
+  height: 50px;
+  text-decoration: none;
+  border: none;
+  font-size: 30px;
+}
